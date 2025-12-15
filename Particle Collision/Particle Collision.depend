@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1764550186 source:c:\users\mathew tumanggor\documents\vscode\particle collision\main.cpp
+	<graphics.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
